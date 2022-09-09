@@ -1,0 +1,11 @@
+C:\Users\toshiba\Documents\GitHub\ListBoxluKayitFormu\ListBoxluKayitFormu\obj\Debug\ListBoxluKayitFormu.csproj.AssemblyReference.cache
+C:\Users\toshiba\Documents\GitHub\ListBoxluKayitFormu\ListBoxluKayitFormu\obj\Debug\ListBoxluKayitFormu.csproj.SuggestedBindingRedirects.cache
+C:\Users\toshiba\Documents\GitHub\ListBoxluKayitFormu\ListBoxluKayitFormu\obj\Debug\DataBaseliPersonelKimlik.Form1.resources
+C:\Users\toshiba\Documents\GitHub\ListBoxluKayitFormu\ListBoxluKayitFormu\obj\Debug\ListBoxluKayitFormu.Properties.Resources.resources
+C:\Users\toshiba\Documents\GitHub\ListBoxluKayitFormu\ListBoxluKayitFormu\obj\Debug\ListBoxluKayitFormu.csproj.GenerateResource.cache
+C:\Users\toshiba\Documents\GitHub\ListBoxluKayitFormu\ListBoxluKayitFormu\obj\Debug\ListBoxluKayitFormu.csproj.CoreCompileInputs.cache
+C:\Users\toshiba\Documents\GitHub\ListBoxluKayitFormu\ListBoxluKayitFormu\bin\Debug\ListBoxluKayitFormu.exe.config
+C:\Users\toshiba\Documents\GitHub\ListBoxluKayitFormu\ListBoxluKayitFormu\bin\Debug\ListBoxluKayitFormu.exe
+C:\Users\toshiba\Documents\GitHub\ListBoxluKayitFormu\ListBoxluKayitFormu\bin\Debug\ListBoxluKayitFormu.pdb
+C:\Users\toshiba\Documents\GitHub\ListBoxluKayitFormu\ListBoxluKayitFormu\obj\Debug\ListBoxluKayitFormu.exe
+C:\Users\toshiba\Documents\GitHub\ListBoxluKayitFormu\ListBoxluKayitFormu\obj\Debug\ListBoxluKayitFormu.pdb
